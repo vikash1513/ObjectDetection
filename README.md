@@ -6,7 +6,6 @@ To Run type "python main.py" in terminal
 # Output--
 ![image](https://github.com/sakshi2215/Realtimeobjectdetection/assets/116375190/0d076539-5008-4d0b-999b-feeafdc31320)
 ![image](https://github.com/sakshi2215/Realtimeobjectdetection/assets/116375190/c655d13f-fec1-4bc5-be20-fb43d69403db)
-![image](https://github.com/sakshi2215/Realtimeobjectdetection/assets/116375190/2c909472-27ae-4892-b554-485d3358fb88)
 ![image](https://github.com/sakshi2215/Realtimeobjectdetection/assets/116375190/084d3cab-1af4-4d3e-857c-e2252f355287)
 ![image](https://github.com/sakshi2215/Realtimeobjectdetection/assets/116375190/6997a51a-290a-4167-ab9c-1bce7c274d87)
 ![image](https://github.com/sakshi2215/Realtimeobjectdetection/assets/116375190/63b252e4-4796-45ae-9fcf-1c771ce85e2e)
